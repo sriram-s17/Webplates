@@ -77,7 +77,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `name`, `photo`, `gender`, `dob`, `pwd`, `verified`) VALUES
-(1, 'abc@gmail.com', 'abc', 'assets/images/users/userprofile-1.jpg', 'Male', '01-01-2001', 'e99a18c428cb38d5f260853678922e03', 'yes');
+(1, 'abc@gmail.com', 'abc', 'assets/images/users/userprofile-1.jpg', 'Male', '01-01-2001', 'e0002f872fab20668458e08586d0ad40', 'yes');
 
 --
 -- Indexes for dumped tables
